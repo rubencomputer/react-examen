@@ -1,0 +1,43 @@
+.GroupText {
+	color: #00326c;
+	font-weight: bolder;
+}
+
+.DoseNumber {
+	margin-right: 1%;
+	background-color: #37aefe;
+	color: white;
+	border-radius: 64px;
+	width: 12px;
+	height: 12px;
+	display: flex;
+	padding: 1%;
+	font-size: 12px;
+	vertical-align: middle;
+	align-self: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.DoseText {
+	color: #37aefe;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.BrandText {
+	color: #ff6c00;
+	font-weight: bold;
+	text-transform: capitalize !important;
+}
+
+.BrandTextNote {
+	color: #ff6c00;
+	font-size: small;
+	font-weight: 600;
+}
+
+.Location {
+	font-weight: bold;
+	color: #676d72;
+}

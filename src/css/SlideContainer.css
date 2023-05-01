@@ -1,0 +1,7 @@
+.SlideContainer {
+	padding: 2%;
+	height: 20vh;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
